@@ -1,0 +1,19 @@
+body{
+   background: lightcoral; 
+}
+#star-btn{
+    width: 40px;
+}
+#camera{
+    width: 360px;
+    height: 250px;
+    border: 5px solid purple;
+}
+#logo{
+width: 100px;
+height: 75px;
+border-radius: 100px;
+}
+#textbox{
+    width: 300px;
+}
